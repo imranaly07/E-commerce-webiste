@@ -25,11 +25,7 @@ A Ecommerce Website made with React.js Framework.
 
 ```
 
-Go to the project directory
 
-```bash
-  cd React_E-Commerce
-```
 
 Install dependencies
 
